@@ -1,0 +1,5 @@
+package com.vamk.entity.repository;
+
+public class UserRepository {
+
+}

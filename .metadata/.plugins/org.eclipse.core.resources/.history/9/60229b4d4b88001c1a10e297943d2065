@@ -1,0 +1,5 @@
+package com.vamk.entity.repository;
+
+public interface UserRepository extends JpaRepository {
+
+}
